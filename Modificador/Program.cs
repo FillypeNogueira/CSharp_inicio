@@ -12,9 +12,8 @@ namespace Modificador
 
             inicio.Display();
 
-        
+               
             
-
           
         }
     }

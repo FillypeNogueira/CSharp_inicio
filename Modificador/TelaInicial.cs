@@ -21,10 +21,19 @@ namespace Modificador
                 case 3:
                 Opcoes.Preco();
 
+                break;
+
                 case 4:
-                Opcoes.Remover()
+                Opcoes.Remover(){
+                    
+                }
 
                 break;
+
+                case 5:
+                Opcoes.Lista(){
+
+                }
                 
             }
 
