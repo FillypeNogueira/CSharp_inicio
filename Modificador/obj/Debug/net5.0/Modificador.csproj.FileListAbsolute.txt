@@ -1,0 +1,16 @@
+C:\Users\filype.vieira\Desktop\Modificador\bin\Debug\net5.0\Modificador.exe
+C:\Users\filype.vieira\Desktop\Modificador\bin\Debug\net5.0\Modificador.deps.json
+C:\Users\filype.vieira\Desktop\Modificador\bin\Debug\net5.0\Modificador.runtimeconfig.json
+C:\Users\filype.vieira\Desktop\Modificador\bin\Debug\net5.0\Modificador.runtimeconfig.dev.json
+C:\Users\filype.vieira\Desktop\Modificador\bin\Debug\net5.0\Modificador.dll
+C:\Users\filype.vieira\Desktop\Modificador\bin\Debug\net5.0\ref\Modificador.dll
+C:\Users\filype.vieira\Desktop\Modificador\bin\Debug\net5.0\Modificador.pdb
+C:\Users\filype.vieira\Desktop\Modificador\obj\Debug\net5.0\Modificador.csproj.AssemblyReference.cache
+C:\Users\filype.vieira\Desktop\Modificador\obj\Debug\net5.0\Modificador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filype.vieira\Desktop\Modificador\obj\Debug\net5.0\Modificador.AssemblyInfoInputs.cache
+C:\Users\filype.vieira\Desktop\Modificador\obj\Debug\net5.0\Modificador.AssemblyInfo.cs
+C:\Users\filype.vieira\Desktop\Modificador\obj\Debug\net5.0\Modificador.csproj.CoreCompileInputs.cache
+C:\Users\filype.vieira\Desktop\Modificador\obj\Debug\net5.0\Modificador.dll
+C:\Users\filype.vieira\Desktop\Modificador\obj\Debug\net5.0\ref\Modificador.dll
+C:\Users\filype.vieira\Desktop\Modificador\obj\Debug\net5.0\Modificador.pdb
+C:\Users\filype.vieira\Desktop\Modificador\obj\Debug\net5.0\Modificador.genruntimeconfig.cache
