@@ -8,16 +8,12 @@ namespace Modificador
     {
         static void Main(string[] args)
         {
+            TelaInicial inicio = new TelaInicial();
 
+            inicio.Display();
 
-
-
-
-
-
-
-
-
+        
+            
 
           
         }

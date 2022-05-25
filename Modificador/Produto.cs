@@ -6,6 +6,4 @@ namespace Modificador
 
         public string nome;
     }
-
-    
 }
