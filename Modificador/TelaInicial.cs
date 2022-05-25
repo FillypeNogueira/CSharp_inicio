@@ -11,14 +11,18 @@ namespace Modificador
             while (opcao != 4)
             {
                 case 1:
-
+                Opcoes.Adicionar();
                 break;
 
                 case 2:
-
+                Opcoes.Ver();
                 break;
 
-                case 3;
+                case 3:
+                Opcoes.Preco();
+
+                case 4:
+                Opcoes.Remover()
 
                 break;
                 
