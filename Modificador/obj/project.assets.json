@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\filype.vieira\\Desktop\\Modificador\\Modificador.csproj",
+      "projectUniqueName": "C:\\Users\\filype.vieira\\Desktop\\Git\\CSharp_inicio\\Modificador\\Modificador.csproj",
       "projectName": "Modificador",
-      "projectPath": "C:\\Users\\filype.vieira\\Desktop\\Modificador\\Modificador.csproj",
+      "projectPath": "C:\\Users\\filype.vieira\\Desktop\\Git\\CSharp_inicio\\Modificador\\Modificador.csproj",
       "packagesPath": "C:\\Users\\filype.vieira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\filype.vieira\\Desktop\\Modificador\\obj\\",
+      "outputPath": "C:\\Users\\filype.vieira\\Desktop\\Git\\CSharp_inicio\\Modificador\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

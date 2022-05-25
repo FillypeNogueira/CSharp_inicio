@@ -7,11 +7,5 @@ namespace Modificador
         public string email;
 
         public char quarto;
-
-        /*public Estudante(string nome, string email){
-            Nome = nome;
-
-            Email = email;
-        }*/
     }
 }
